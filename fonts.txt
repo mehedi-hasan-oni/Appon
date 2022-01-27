@@ -1,0 +1,16 @@
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Raleway', sans-serif;
+
+
+<div class="tittle">
+          <h2 class="tittle-t">about us</h2>
+           <img src="images/tittal-img.png" alt="tittle-img">
+       </div>
+
+<i class="fas fa-lock"></i>
+<i class="fas fa-video"></i>
+<i class="fas fa-cloud"></i>
+<i class="fas fa-comments"></i>
+<i class="fas fa-shopping-bag"></i>
+
